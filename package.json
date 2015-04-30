@@ -2,7 +2,7 @@
   "author": "Kristofer M White",
   "name": "solus",
   "description": "API Client for the SolusVM API",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "url": ""
   },
@@ -13,7 +13,9 @@
   "bin": {
     "uppercaseme": "./bin/solus-cli"
   },
-  "dependencies": {},
+  "dependencies": {
+    "http-request": "0.7.0",
+  },
   "engines": {
     "node": "*"
   }
