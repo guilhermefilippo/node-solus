@@ -2,7 +2,7 @@
   "author": "Kristofer M White",
   "name": "solus",
   "description": "API Client for the SolusVM API",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": ""
   },
