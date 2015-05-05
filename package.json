@@ -14,7 +14,7 @@
     "uppercaseme": "./bin/solus-cli"
   },
   "dependencies": {
-    "http-request": "0.7.0"
+    "request": "2.55.0"
   },
   "engines": {
     "node": "*"
